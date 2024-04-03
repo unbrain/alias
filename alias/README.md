@@ -1,0 +1,6 @@
+# alias
+
+alias settings
+
+
+

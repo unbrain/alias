@@ -1,6 +1,9 @@
 # !/bin/sh
 
-_() {d
+_() {
+  # echo "where is yourzshrc"
+  # read -r ZSH
+  # [ -z "$ZSH" ] && exit 1
   ZSH="~/.zshrc"
 
   echo '
